@@ -1,0 +1,5 @@
+﻿  KRESTIKI NOLIKI.cpp
+C:\Users\79164\Desktop\KRESTIKI NOLIKI\KRESTIKI NOLIKI\KRESTIKI NOLIKI.cpp(368,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\79164\Desktop\KRESTIKI NOLIKI\KRESTIKI NOLIKI\KRESTIKI NOLIKI.cpp(369,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79164\Desktop\KRESTIKI NOLIKI\KRESTIKI NOLIKI\KRESTIKI NOLIKI.cpp(372,7): warning C4101: znak: неиспользованная локальная переменная
+  KRESTIKI NOLIKI.vcxproj -> C:\Users\79164\Desktop\KRESTIKI NOLIKI\Debug\KRESTIKI NOLIKI.exe
