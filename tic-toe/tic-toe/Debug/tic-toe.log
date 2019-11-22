@@ -1,0 +1,5 @@
+﻿  tic-toe.cpp
+C:\Users\79164\code\tic-toe\tic-toe\tic-toe\tic-toe.cpp(368,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\79164\code\tic-toe\tic-toe\tic-toe\tic-toe.cpp(369,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\79164\code\tic-toe\tic-toe\tic-toe\tic-toe.cpp(372,7): warning C4101: 'znak': unreferenced local variable
+  tic-toe.vcxproj -> C:\Users\79164\code\tic-toe\tic-toe\Debug\tic-toe.exe
